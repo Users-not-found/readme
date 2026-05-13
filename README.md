@@ -75,8 +75,8 @@
 
 <div align="center">
  
-![Stats](https://github-stats-pro-seven.vercel.app/api?username=AJ-016&bg=050505&border_clr=3b82f6&user_clr=3b82f6&title_clr=ffffff&text_clr=888888&font_size=14&radius=12&transparent=false&s_age=true&l_age=Member+Since&s_repo=true&l_repo=Top+Project&s_lang=true&l_lang=Tech+Stack&s_commits=true&l_commits=Commits&s_stars=false&l_stars=Total+Stars&s_prs=false&l_prs=Pull+Requests&s_issues=false&l_issues=Issues&s_reviews=false&l_reviews=Reviews&s_forks=false&l_forks=Forks)
-  
+![Stats](https://github-stats-pro-seven.vercel.app/api?username=AJ-016&bg=050505&border_clr=3b82f6&user_clr=3b82f6&title_clr=ffffff&text_clr=888888&font_size=14&radius=12&transparent=true&s_age=true&l_age=Member+Since&s_repo=true&l_repo=Top+Project&s_lang=true&l_lang=Tech+Stack&s_commits=true&l_commits=Commits&s_stars=false&l_stars=Total+Stars&s_prs=false&l_prs=Pull+Requests&s_issues=false&l_issues=Issues&s_reviews=false&l_reviews=Reviews&s_forks=false&l_forks=Forks)
+
 </div>
 
 <div align="center">
