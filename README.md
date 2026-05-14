@@ -58,14 +58,17 @@
 
 <div align="center">
 
-| | Project | Stack | Description |
-|:--:|:--------|:------|:------------|
-| 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` | Real-time chat app with a clean minimal UI |
-| 🎨 | **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | `JS` `HTML` `CSS` `Python` | Browser-based sticker designer with custom tools |
-| 🤖 | **[my-local-automator](https://github.com/AJ-016/my-local-automator)** | `JS` `Python` `HTML` `CSS` | Local task automation — no cloud, no tracking |
-| 📬 | **[Postman_clone](https://github.com/AJ-016/Postman_clone)** | `JS` `HTML` `CSS` | Lightweight HTTP client to test APIs in-browser |
-| 📝 | **[notes_apk](https://github.com/AJ-016/notes_apk)** | `JS` `HTML` `CSS` | Distraction-free notes saved to local storage |
-| ✅ | **[to-do-app](https://github.com/AJ-016/to-do-app)** | `JS` `HTML` `CSS` | Minimal task manager that actually stays out of your way |
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[github-stats-pro](https://github.com/AJ-016/github-stats-pro)** | `HTML` | A sleek, customizable GitHub stats generator that lets you build and preview matte-style README cards with a live dashboard. |
+| **[ZenithWriter](https://github.com/AJ-016/ZenithWriter)** | `JavaScript` | A professional, local-first Markdown editor featuring native File System API sync, persistent IndexedDB caching, and real-time GFM preview. Secure, serverless, and modular. |
+| **[Nova-API-monitor](https://github.com/AJ-016/Nova-API-monitor)** | `JavaScript` | A powerful, 100% local-first API development workspace and uptime tracker built with FastAPI and React. |
+| **[TeleSync-Pro](https://github.com/AJ-016/TeleSync-Pro)** | `Python` | A professional-grade Python tool designed to mirror Telegram message history across chats. Features a performance-optimized web dashboard, deep integrity mapping to prevent data gaps, and custom nickname management. |
+| **[Pixaro](https://github.com/AJ-016/Pixaro)** | `JavaScript` | Pixaro is an offline-first web tool for local AI background removal and sticker creation using ONNX Runtime. |
+| **[shadow-wing-customizer](https://github.com/AJ-016/shadow-wing-customizer)** | `HTML` | 🦇 An interactive CSS-art laboratory. Manipulate wings, body, and environment through a real-time theme engine. No images, just pure code. |
+| **[retro-bat-shadow-art](https://github.com/AJ-016/retro-bat-shadow-art)** | `HTML` | Retro 8-bit flying bat animation built entirely with pure CSS and zero image files |
+| **[Slink-Console](https://github.com/AJ-016/Slink-Console)** | `HTML` | A high-fidelity retro snake engine featuring a custom handheld console UI, zero-lag touch controls, and dynamic aesthetic settings. Optimized for desktop and mobile. |
+| **[Digital-Bubble-Popper](https://github.com/AJ-016/Digital-Bubble-Popper)** | `HTML` | An interactive deep-sea bubble popper for high-fidelity digital relaxation. 🌊🫧 |
 
 </div>
 
