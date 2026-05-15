@@ -60,15 +60,16 @@
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[github-stats-pro](https://github.com/AJ-016/github-stats-pro)** | `HTML` | A sleek, customizable GitHub stats generator that lets you build and preview matte-style README cards with a live dashboard. |
-| **[ZenithWriter](https://github.com/AJ-016/ZenithWriter)** | `JavaScript` | A professional, local-first Markdown editor featuring native File System API sync, persistent IndexedDB caching, and real-time GFM preview. Secure, serverless, and modular. |
-| **[Nova-API-monitor](https://github.com/AJ-016/Nova-API-monitor)** | `JavaScript` | A powerful, 100% local-first API development workspace and uptime tracker built with FastAPI and React. |
-| **[TeleSync-Pro](https://github.com/AJ-016/TeleSync-Pro)** | `Python` | A professional-grade Python tool designed to mirror Telegram message history across chats. Features a performance-optimized web dashboard, deep integrity mapping to prevent data gaps, and custom nickname management. |
-| **[Pixaro](https://github.com/AJ-016/Pixaro)** | `JavaScript` | Pixaro is an offline-first web tool for local AI background removal and sticker creation using ONNX Runtime. |
+| **[github-stats-pro](https://github.com/AJ-016/github-stats-pro)** | `HTML` `Py` | A sleek, customizable GitHub stats generator that lets you build and preview matte-style README cards with a live dashboard. |
+| **[Nova-API-monitor](https://github.com/AJ-016/Nova-API-monitor)** | `HTML` `CSS` `JS` `Py` | A powerful, 100% local-first API development workspace and uptime tracker built with FastAPI and React. |
+| **[ZenithWriter](https://github.com/AJ-016/ZenithWriter)** | `HTML` `CSS` `JS` | A professional, local-first Markdown editor featuring native File System API sync, persistent IndexedDB caching, and real-time GFM preview. Secure, serverless, and modular. |
+| **[TeleSync-Pro](https://github.com/AJ-016/TeleSync-Pro)** | `Py` | A professional-grade Python tool designed to mirror Telegram message history across chats. Features a performance-optimized web dashboard, deep integrity mapping to prevent data gaps, and custom nickname management. |
+| **[Pixaro](https://github.com/AJ-016/Pixaro)** | `HTML` `CSS` `JS` | Pixaro is an offline-first web tool for local AI background removal and sticker creation using ONNX Runtime. |
 | **[shadow-wing-customizer](https://github.com/AJ-016/shadow-wing-customizer)** | `HTML` | 🦇 An interactive CSS-art laboratory. Manipulate wings, body, and environment through a real-time theme engine. No images, just pure code. |
 | **[retro-bat-shadow-art](https://github.com/AJ-016/retro-bat-shadow-art)** | `HTML` | Retro 8-bit flying bat animation built entirely with pure CSS and zero image files |
 | **[Slink-Console](https://github.com/AJ-016/Slink-Console)** | `HTML` | A high-fidelity retro snake engine featuring a custom handheld console UI, zero-lag touch controls, and dynamic aesthetic settings. Optimized for desktop and mobile. |
 | **[Digital-Bubble-Popper](https://github.com/AJ-016/Digital-Bubble-Popper)** | `HTML` | An interactive deep-sea bubble popper for high-fidelity digital relaxation. 🌊🫧 |
+
 
 </div>
 
